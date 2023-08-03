@@ -4,6 +4,9 @@
     border:border-box;
 
 }
+.flag img{
+    width:20px;
+    height:20px;
 .navbar{
     height:60px;
     background-color: #0f1111;
